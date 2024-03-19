@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "--------> START BUILD <--------------"
+source /usr/libexec/s2i/assemble
